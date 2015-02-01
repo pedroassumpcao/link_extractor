@@ -1,0 +1,5 @@
+%{"hackney": {:git, "git://github.com/benoitc/hackney.git", "71d67840d097009e8d59f9cda620d04ee335f4fa", []},
+  "httpoison": {:hex, :httpoison, "0.3.2"},
+  "idna": {:git, "https://github.com/benoitc/erlang-idna", "c80afc2c3120010fd22287a3b2ef2bbbde57ff40", [tag: "1.0.2"]},
+  "poolboy": {:hex, :poolboy, "1.2.1"},
+  "ssl_verify_hostname": {:git, "https://github.com/benoitc/ssl_verify_hostname", "764647b07a2941b8f209a70635ff217e86918321", [tag: "1.0.1"]}}
